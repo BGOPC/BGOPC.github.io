@@ -2,6 +2,11 @@
   width: 2%;
   background-color: slategray;
 }
+@media only screen and (max-width: 600px) {
+  ::-webkit-scrollbar {
+    width: 5%;
+  }
+}
 
 /* Track */
 ::-webkit-scrollbar-track {

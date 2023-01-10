@@ -13,3 +13,7 @@
   background: rgb(190, 190, 190) !important;
   border-radius: 10px !important;
 }
+::selection {
+  color: #115e59;
+  font-weight: bolder;
+}

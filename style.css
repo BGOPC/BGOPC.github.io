@@ -14,6 +14,7 @@
   border-radius: 10px !important;
 }
 ::selection {
-  color: #115e59;
+  background: #8e9aac;
+  color: #87e2dc;
   font-weight: bolder;
 }
